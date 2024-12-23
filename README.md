@@ -1,6 +1,6 @@
 ## _Automatic inventory management System_
 
-Made by Harshit Aggarwal and Kabir Chawla 
+Made by Yogant Sahu
 
 ## Features
 
